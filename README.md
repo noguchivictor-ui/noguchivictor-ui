@@ -71,15 +71,16 @@ I enjoy learning new technologies, solving problems and collaborating on project
 
 <div align="center">
 
-<a href="https://github.com/sallesse/Loja-de-Brinquedos-Esportivos.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=SEU_REPOSITORIO_1&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/sallesse/Loja-de-Brindes-Esportivos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sallesse&repo=Loja-de-Brindes-Esportivos&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/noguchivictor-ui/AC1.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=SEU_REPOSITORIO_2&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/noguchivictor-ui/AC1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=AC1&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
+
 
 ### Featured development areas
 
