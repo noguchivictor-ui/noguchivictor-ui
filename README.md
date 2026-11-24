@@ -69,10 +69,11 @@ I enjoy learning new technologies, solving problems and collaborating on project
 
 ## `03` // CURRENT PROJECTS
 
+
 <div align="center">
 
-<a href="https://github.com/sallesse/Loja-de-Brindes-Esportivos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sallesse&repo=Loja-de-Brindes-Esportivos&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/sallesse/Loja-de-Brinquedos-Esportivos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sallesse&repo=Loja-de-Brinquedos-Esportivos&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/noguchivictor-ui/AC1">
