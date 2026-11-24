@@ -71,11 +71,11 @@ I enjoy learning new technologies, solving problems and collaborating on project
 
 <div align="center">
 
-<a href="SEU_LINK_DO_PROJETO_1">
+<a href="https://github.com/sallesse/Loja-de-Brinquedos-Esportivos.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=SEU_REPOSITORIO_1&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="SEU_LINK_DO_PROJETO_2">
+<a href="https://github.com/noguchivictor-ui/AC1.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=SEU_REPOSITORIO_2&theme=tokyonight&hide_border=true"/>
 </a>
 
@@ -163,11 +163,11 @@ I enjoy learning new technologies, solving problems and collaborating on project
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<a href="www.linkedin.com/in/victor-ryu-noguchi-5615b1300">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:noguchivictor@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
