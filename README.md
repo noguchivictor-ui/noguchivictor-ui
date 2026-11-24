@@ -76,8 +76,8 @@ I enjoy learning new technologies, solving problems and collaborating on project
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sallesse&repo=Loja-de-Brinquedos-Esportivos&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/noguchivictor-ui/AC1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=AC1&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/noguchivictor-ui/centro-veterinario">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=centro-veterinario&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/noguchivictor-ui/cadastro-produtos-e-categorias">
