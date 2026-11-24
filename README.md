@@ -80,6 +80,10 @@ I enjoy learning new technologies, solving problems and collaborating on project
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=AC1&theme=tokyonight&hide_border=true"/>
 </a>
 
+<a href="https://github.com/noguchivictor-ui/cadastro-produtos-e-categorias">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=AC1&theme=tokyonight&hide_border=true"/>
+</a>
+
 </div>
 
 
