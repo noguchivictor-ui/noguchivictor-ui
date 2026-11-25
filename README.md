@@ -83,12 +83,18 @@ I enjoy learning new technologies, solving problems and collaborating on project
 <a href="https://github.com/noguchivictor-ui/cadastro-produtos-e-categorias">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=cadastro-produtos-e-categorias&theme=tokyonight&hide_border=true"/>
 </a>
+
 <a href="https://github.com/noguchivictor-ui/exercicios-programacao-estruturada-C.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=exercicios-programacao-estruturada-C&theme=tokyonight&hide_border=true"/>
 </a>
+
 <a href="https://github.com/noguchivictor-ui/Exercicios-Desenvolvimento-WEB.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=Exercícios-Desenvolvimento-WEB&theme=tokyonight&hide_border=true"/>
 </a>
+<a href="https://github.com/noguchivictor-ui/Exercicios-Introducao-POO.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noguchivictor-ui&repo=Exercicios-Introducao-POO&theme=tokyonight&hide_border=true"/>
+</a>
+
 </div>
 
 
